@@ -65,6 +65,7 @@
         antialias: true,
         alpha: true
       });
+      this.renderer.setPixelRatio(window.devicePixelRatio);
       this.controls = new THREE.TrackballControls(this.camera);
       this.controls.autoRotate = true;
       this.controls.autoRotateSpeed = 2;

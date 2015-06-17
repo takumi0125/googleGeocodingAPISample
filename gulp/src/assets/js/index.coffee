@@ -56,6 +56,7 @@ class project.Main
       canvas: @canvasElm
       antialias: true
       alpha: true
+    @renderer.setPixelRatio window.devicePixelRatio
 
     # control
     @controls = new THREE.TrackballControls @camera
