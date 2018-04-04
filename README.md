@@ -1,8 +1,8 @@
 # Google Geocoding API Sample
 
-<a href="http://dev.tkmh.me/study/panoramicBall/" target="_blank">http://dev.tkmh.me/study/googleGeocodingAPISample/</a>
+<a href="https://tkmh.me/study/googleGeocodingAPISample/" target="_blank">https://tkmh.me/study/googleGeocodingAPISample/</a>
 
-こちらのデモのソースファイルです。解説記事は<a href="http://dev.tkmh.me/2015/09/13/203" target="_blank">前編</a>と<a href="http://dev.tkmh.me/2015/09/15/237" target="_blank">後編</a>に分けています。
+こちらのデモのソースファイルです。解説記事は<a href="https://note.mu/unshift/n/n07ffb96192cd" target="_blank">前編</a>と<a href="https://note.mu/unshift/n/nda8415ecc3dc" target="_blank">後編</a>に分けています。
 
 gulpを使用しています。
 
